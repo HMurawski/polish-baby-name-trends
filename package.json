@@ -1,0 +1,24 @@
+{
+  "name": "polish-baby-name-trends",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "generate:sample-data": "python pipelines/generate_sample_data.py",
+    "verify:data": "python pipelines/validate_public_data_contracts.py",
+    "verify": "npm run verify:data && npm run build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "22.14.0",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "5.8.3"
+  }
+}

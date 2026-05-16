@@ -1,0 +1,102 @@
+
+
+
+# Environment variables
+
+.env
+.env.*
+!.env.example
+
+dbt/profiles.yml
+profiles.yml
+
+# Python
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+ENV/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+.ipynb_checkpoints/
+
+# Frontend
+
+node_modules/
+.next/
+out/
+dist/
+
+
+# dbt
+
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
+
+
+# Airflow
+orchestration/airflow/logs/
+orchestration/airflow/plugins/
+airflow.db
+airflow.cfg
+webserver_config.py
+
+# Local data files
+data/
+!public/data/
+!public/data/*.json
+*.parquet
+*.csv
+*.jsonl
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+
+!dashboard/**/*.md
+!docs/**/*.md
+
+
+# Docker / local volumes
+
+.docker/
+docker-data/
+postgres-data/
+metabase-data/
+airflow-data/
+
+# Logs
+
+*.log
+logs/
+
+
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+struktura_projektu.md
+fazy_projektu.md
+.codex-notes.md
+agent_workflow.md

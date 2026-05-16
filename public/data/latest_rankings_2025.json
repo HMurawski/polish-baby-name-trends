@@ -1,0 +1,54 @@
+{
+  "female": [
+    {
+      "rank": 1,
+      "name": "ZOFIA",
+      "name_normalized": "zofia",
+      "gender": "female",
+      "count": 4100,
+      "share": 0.034453781512605045
+    },
+    {
+      "rank": 2,
+      "name": "LAURA",
+      "name_normalized": "laura",
+      "gender": "female",
+      "count": 3900,
+      "share": 0.03277310924369748
+    },
+    {
+      "rank": 3,
+      "name": "HELENA",
+      "name_normalized": "helena",
+      "gender": "female",
+      "count": 3300,
+      "share": 0.02773109243697479
+    }
+  ],
+  "male": [
+    {
+      "rank": 1,
+      "name": "ANTONI",
+      "name_normalized": "antoni",
+      "gender": "male",
+      "count": 4700,
+      "share": 0.038524590163934426
+    },
+    {
+      "rank": 2,
+      "name": "JAN",
+      "name_normalized": "jan",
+      "gender": "male",
+      "count": 4500,
+      "share": 0.036885245901639344
+    },
+    {
+      "rank": 3,
+      "name": "NIKODEM",
+      "name_normalized": "nikodem",
+      "gender": "male",
+      "count": 4200,
+      "share": 0.03442622950819672
+    }
+  ]
+}

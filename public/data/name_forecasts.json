@@ -1,0 +1,56 @@
+{
+  "female|helena": [
+    {
+      "year": 2026,
+      "forecast_share": 0.029176060668169704,
+      "forecast_method": "damped_3y_share_trend",
+      "source_year": 2025,
+      "is_forecast": true
+    }
+  ],
+  "female|zofia": [
+    {
+      "year": 2026,
+      "forecast_share": 0.033920885427341674,
+      "forecast_method": "damped_3y_share_trend",
+      "source_year": 2025,
+      "is_forecast": true
+    }
+  ],
+  "female|laura": [
+    {
+      "year": 2026,
+      "forecast_share": 0.033242809318849494,
+      "forecast_method": "damped_3y_share_trend",
+      "source_year": 2025,
+      "is_forecast": true
+    }
+  ],
+  "male|antoni": [
+    {
+      "year": 2026,
+      "forecast_share": 0.03807821832507307,
+      "forecast_method": "damped_3y_share_trend",
+      "source_year": 2025,
+      "is_forecast": true
+    }
+  ],
+  "male|jan": [
+    {
+      "year": 2026,
+      "forecast_share": 0.037773224043715845,
+      "forecast_method": "damped_3y_share_trend",
+      "source_year": 2025,
+      "is_forecast": true
+    }
+  ],
+  "male|nikodem": [
+    {
+      "year": 2026,
+      "forecast_share": 0.03605604269919939,
+      "forecast_method": "damped_3y_share_trend",
+      "source_year": 2025,
+      "is_forecast": true
+    }
+  ]
+}

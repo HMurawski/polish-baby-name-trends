@@ -1,0 +1,242 @@
+{
+  "female|helena|registration_voivodeship|14": [
+    {
+      "year": 2023,
+      "count": 427,
+      "share": 0.02372222222222222,
+      "rank": 3
+    },
+    {
+      "year": 2024,
+      "count": 493,
+      "share": 0.027696629213483145,
+      "rank": 3
+    },
+    {
+      "year": 2025,
+      "count": 527,
+      "share": 0.029943181818181817,
+      "rank": 3
+    }
+  ],
+  "female|zofia|registration_voivodeship|14": [
+    {
+      "year": 2023,
+      "count": 645,
+      "share": 0.035833333333333335,
+      "rank": 1
+    },
+    {
+      "year": 2024,
+      "count": 620,
+      "share": 0.0348314606741573,
+      "rank": 1
+    },
+    {
+      "year": 2025,
+      "count": 594,
+      "share": 0.03375,
+      "rank": 1
+    }
+  ],
+  "female|laura|registration_voivodeship|14": [
+    {
+      "year": 2023,
+      "count": 523,
+      "share": 0.029055555555555557,
+      "rank": 2
+    },
+    {
+      "year": 2024,
+      "count": 546,
+      "share": 0.030674157303370787,
+      "rank": 2
+    },
+    {
+      "year": 2025,
+      "count": 542,
+      "share": 0.030795454545454546,
+      "rank": 2
+    }
+  ],
+  "male|antoni|registration_voivodeship|14": [
+    {
+      "year": 2023,
+      "count": 785,
+      "share": 0.041534391534391535,
+      "rank": 1
+    },
+    {
+      "year": 2024,
+      "count": 756,
+      "share": 0.04086486486486487,
+      "rank": 1
+    },
+    {
+      "year": 2025,
+      "count": 722,
+      "share": 0.03967032967032967,
+      "rank": 1
+    }
+  ],
+  "male|jan|registration_voivodeship|14": [
+    {
+      "year": 2023,
+      "count": 630,
+      "share": 0.03333333333333333,
+      "rank": 2
+    },
+    {
+      "year": 2024,
+      "count": 646,
+      "share": 0.03491891891891892,
+      "rank": 2
+    },
+    {
+      "year": 2025,
+      "count": 671,
+      "share": 0.03686813186813187,
+      "rank": 2
+    }
+  ],
+  "male|nikodem|registration_voivodeship|14": [
+    {
+      "year": 2023,
+      "count": 485,
+      "share": 0.025661375661375663,
+      "rank": 3
+    },
+    {
+      "year": 2024,
+      "count": 527,
+      "share": 0.028486486486486485,
+      "rank": 3
+    },
+    {
+      "year": 2025,
+      "count": 576,
+      "share": 0.03164835164835165,
+      "rank": 3
+    }
+  ],
+  "female|helena|registration_voivodeship|12": [
+    {
+      "year": 2023,
+      "count": 215,
+      "share": 0.020673076923076922,
+      "rank": 3
+    },
+    {
+      "year": 2024,
+      "count": 246,
+      "share": 0.02411764705882353,
+      "rank": 3
+    },
+    {
+      "year": 2025,
+      "count": 261,
+      "share": 0.0261,
+      "rank": 3
+    }
+  ],
+  "female|zofia|registration_voivodeship|12": [
+    {
+      "year": 2023,
+      "count": 400,
+      "share": 0.038461538461538464,
+      "rank": 1
+    },
+    {
+      "year": 2024,
+      "count": 381,
+      "share": 0.03735294117647059,
+      "rank": 1
+    },
+    {
+      "year": 2025,
+      "count": 362,
+      "share": 0.0362,
+      "rank": 1
+    }
+  ],
+  "female|laura|registration_voivodeship|12": [
+    {
+      "year": 2023,
+      "count": 328,
+      "share": 0.031538461538461536,
+      "rank": 2
+    },
+    {
+      "year": 2024,
+      "count": 340,
+      "share": 0.03333333333333333,
+      "rank": 2
+    },
+    {
+      "year": 2025,
+      "count": 334,
+      "share": 0.0334,
+      "rank": 2
+    }
+  ],
+  "male|antoni|registration_voivodeship|12": [
+    {
+      "year": 2023,
+      "count": 426,
+      "share": 0.03908256880733945,
+      "rank": 1
+    },
+    {
+      "year": 2024,
+      "count": 408,
+      "share": 0.038490566037735846,
+      "rank": 1
+    },
+    {
+      "year": 2025,
+      "count": 385,
+      "share": 0.03737864077669903,
+      "rank": 2
+    }
+  ],
+  "male|jan|registration_voivodeship|12": [
+    {
+      "year": 2023,
+      "count": 392,
+      "share": 0.03596330275229358,
+      "rank": 2
+    },
+    {
+      "year": 2024,
+      "count": 400,
+      "share": 0.03773584905660377,
+      "rank": 2
+    },
+    {
+      "year": 2025,
+      "count": 410,
+      "share": 0.039805825242718446,
+      "rank": 1
+    }
+  ],
+  "male|nikodem|registration_voivodeship|12": [
+    {
+      "year": 2023,
+      "count": 310,
+      "share": 0.028440366972477066,
+      "rank": 3
+    },
+    {
+      "year": 2024,
+      "count": 335,
+      "share": 0.03160377358490566,
+      "rank": 3
+    },
+    {
+      "year": 2025,
+      "count": 362,
+      "share": 0.03514563106796117,
+      "rank": 3
+    }
+  ]
+}

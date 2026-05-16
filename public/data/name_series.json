@@ -1,0 +1,158 @@
+{
+  "female|helena": [
+    {
+      "year": 2023,
+      "count": 2700,
+      "share": 0.02195121951219512,
+      "rank": 3,
+      "yoy_change": null,
+      "rank_change": null
+    },
+    {
+      "year": 2024,
+      "count": 3100,
+      "share": 0.0256198347107438,
+      "rank": 3,
+      "yoy_change": 400,
+      "rank_change": 0
+    },
+    {
+      "year": 2025,
+      "count": 3300,
+      "share": 0.02773109243697479,
+      "rank": 3,
+      "yoy_change": 200,
+      "rank_change": 0
+    }
+  ],
+  "female|zofia": [
+    {
+      "year": 2023,
+      "count": 4500,
+      "share": 0.036585365853658534,
+      "rank": 1,
+      "yoy_change": null,
+      "rank_change": null
+    },
+    {
+      "year": 2024,
+      "count": 4300,
+      "share": 0.03553719008264463,
+      "rank": 1,
+      "yoy_change": -200,
+      "rank_change": 0
+    },
+    {
+      "year": 2025,
+      "count": 4100,
+      "share": 0.034453781512605045,
+      "rank": 1,
+      "yoy_change": -200,
+      "rank_change": 0
+    }
+  ],
+  "female|laura": [
+    {
+      "year": 2023,
+      "count": 3800,
+      "share": 0.030894308943089432,
+      "rank": 2,
+      "yoy_change": null,
+      "rank_change": null
+    },
+    {
+      "year": 2024,
+      "count": 3950,
+      "share": 0.03264462809917355,
+      "rank": 2,
+      "yoy_change": 150,
+      "rank_change": 0
+    },
+    {
+      "year": 2025,
+      "count": 3900,
+      "share": 0.03277310924369748,
+      "rank": 2,
+      "yoy_change": -50,
+      "rank_change": 0
+    }
+  ],
+  "male|antoni": [
+    {
+      "year": 2023,
+      "count": 5200,
+      "share": 0.040310077519379844,
+      "rank": 1,
+      "yoy_change": null,
+      "rank_change": null
+    },
+    {
+      "year": 2024,
+      "count": 5000,
+      "share": 0.03968253968253968,
+      "rank": 1,
+      "yoy_change": -200,
+      "rank_change": 0
+    },
+    {
+      "year": 2025,
+      "count": 4700,
+      "share": 0.038524590163934426,
+      "rank": 1,
+      "yoy_change": -300,
+      "rank_change": 0
+    }
+  ],
+  "male|jan": [
+    {
+      "year": 2023,
+      "count": 4300,
+      "share": 0.03333333333333333,
+      "rank": 2,
+      "yoy_change": null,
+      "rank_change": null
+    },
+    {
+      "year": 2024,
+      "count": 4400,
+      "share": 0.03492063492063492,
+      "rank": 2,
+      "yoy_change": 100,
+      "rank_change": 0
+    },
+    {
+      "year": 2025,
+      "count": 4500,
+      "share": 0.036885245901639344,
+      "rank": 2,
+      "yoy_change": 100,
+      "rank_change": 0
+    }
+  ],
+  "male|nikodem": [
+    {
+      "year": 2023,
+      "count": 3600,
+      "share": 0.027906976744186046,
+      "rank": 3,
+      "yoy_change": null,
+      "rank_change": null
+    },
+    {
+      "year": 2024,
+      "count": 3900,
+      "share": 0.030952380952380953,
+      "rank": 3,
+      "yoy_change": 300,
+      "rank_change": 0
+    },
+    {
+      "year": 2025,
+      "count": 4200,
+      "share": 0.03442622950819672,
+      "rank": 3,
+      "yoy_change": 300,
+      "rank_change": 0
+    }
+  ]
+}
