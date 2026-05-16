@@ -1,6 +1,6 @@
 # Imię w Klasie / Polish Baby Name Trends
 
-[Live product](https://polish-baby-name-trends.vercel.app)
+[Live product](https://polish-baby-name-trends-prod.vercel.app/)
 
 > This repository is a sanitized public showcase version. It uses sample data and intentionally excludes the full production data layer and production ETL pipelines.
 
